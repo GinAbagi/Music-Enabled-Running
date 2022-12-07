@@ -1,0 +1,42 @@
+{
+    "short_name": "J-R",
+    "name": "Just Run",
+    "lang": "nl",
+    "description": "Music Enabled Running",
+    "start_url": "/index.html",
+    "background_color": "#ffffff",
+    "theme_color": "#e44200",
+    "dir": "ltr",
+    "display": "standalone",
+    "orientation": "any",
+    "icons": [
+     {
+      "src": "icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+     },
+     {
+      "src": "icons/apple-touch-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+     },
+     {
+      "src": "icons/apple-touch-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+     },
+     {
+      "src": "icons/apple-touch-icon-120x120.png",
+      "type": "image/png",
+      "sizes": "144x144"
+     },
+     {
+      "src": "icons/apple-touch-icon-120x120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+     }
+     
+    ],
+    "prefer_related_applications": false
+   
+   }
